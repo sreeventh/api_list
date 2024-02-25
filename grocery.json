@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "coffee",
+        "name": "Coffee",
         "desc": "Starbucks Coffee Variety Pack, 100% Arabica",
         "veg": true,
         "img": ""
     },
     {
         "id": 2,
-        "name": "milk",
+        "name": "Milk",
         "desc": "100% Cow's milk",
         "veg": true,
         "img": ""
@@ -25,6 +25,27 @@
         "name": "Fish",
         "desc": "Omega-3 and Protein Rich",
         "veg": false,
+        "img": ""
+    },
+    {
+        "id": 5,
+        "name": "Eggs",
+        "desc": "6gm protein",
+        "veg": false,
+        "img": ""
+    },
+    {
+        "id": 6,
+        "name": "Cereal",
+        "desc": "Yummy",
+        "veg": true,
+        "img": ""
+    },
+    {
+        "id": 7,
+        "name": "Olive Oil",
+        "desc": "Pizza and Salad Dressing",
+        "veg": true,
         "img": ""
     }
 ]
