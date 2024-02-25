@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "coffee",
+        "desc": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "veg": true,
+        "img": ""
+    },
+    {
+        "id": 2,
+        "name": "milk",
+        "desc": "100% Cow's milk",
+        "veg": true,
+        "img": ""
+    },
+    {
+        "id": 3,
+        "name": "Chicken",
+        "desc": "Farm Fresh",
+        "veg": false,
+        "img": ""
+    },
+    {
+        "id": 4,
+        "name": "Fish",
+        "desc": "Omega-3 and Protein Rich",
+        "veg": false,
+        "img": ""
+    }
+]
