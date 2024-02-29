@@ -1,0 +1,291 @@
+[
+    {
+      "name": "Yuri Gagarin",
+      "nationality": "Soviet",
+      "date_of_birth": "1934-03-09",
+      "missions": [
+        {
+          "spacecraft": "Vostok 1",
+          "mission_date": "1961-04-12"
+        }
+      ]
+    },
+    {
+      "name": "Neil Armstrong",
+      "nationality": "American",
+      "date_of_birth": "1930-08-05",
+      "missions": [
+        {
+          "spacecraft": "Apollo 11",
+          "mission_date": "1969-07-16"
+        }
+      ]
+    },
+    {
+      "name": "Valentina Tereshkova",
+      "nationality": "Soviet",
+      "date_of_birth": "1937-03-06",
+      "missions": [
+        {
+          "spacecraft": "Vostok 6",
+          "mission_date": "1963-06-16"
+        }
+      ]
+    },
+    {
+      "name": "Sally Ride",
+      "nationality": "American",
+      "date_of_birth": "1951-05-26",
+      "missions": [
+        {
+          "spacecraft": "STS-7 (Challenger)",
+          "mission_date": "1983-06-18"
+        }
+      ]
+    },
+    {
+      "name": "Chris Hadfield",
+      "nationality": "Canadian",
+      "date_of_birth": "1959-08-29",
+      "missions": [
+        {
+          "spacecraft": "STS-74 (Atlantis)",
+          "mission_date": "1995-11-12"
+        }
+      ]
+    },
+    {
+      "name": "John Glenn",
+      "nationality": "American",
+      "date_of_birth": "1921-07-18",
+      "missions": [
+        {
+          "spacecraft": "Friendship 7",
+          "mission_date": "1962-02-20"
+        },
+        {
+          "spacecraft": "STS-95 (Discovery)",
+          "mission_date": "1998-10-29"
+        }
+      ]
+    },
+    {
+      "name": "Buzz Aldrin",
+      "nationality": "American",
+      "date_of_birth": "1930-01-20",
+      "missions": [
+        {
+          "spacecraft": "Apollo 11",
+          "mission_date": "1969-07-16"
+        }
+      ]
+    },
+    {
+      "name": "Alan Shepard",
+      "nationality": "American",
+      "date_of_birth": "1923-11-18",
+      "missions": [
+        {
+          "spacecraft": "Freedom 7",
+          "mission_date": "1961-05-05"
+        }
+      ]
+    },
+    {
+      "name": "Kalpana Chawla",
+      "nationality": "American",
+      "date_of_birth": "1961-03-17",
+      "date_of_death": "2003-02-01",
+      "missions": [
+        {
+          "spacecraft": "STS-87 (Columbia)",
+          "mission_date": "1997-11-19"
+        },
+        {
+          "spacecraft": "STS-107 (Columbia)",
+          "mission_date": "2003-01-16"
+        }
+      ]
+    },
+    {
+      "name": "Yuri Malenchenko",
+      "nationality": "Russian",
+      "date_of_birth": "1961-12-22",
+      "missions": [
+        {
+          "spacecraft": "STS-106 (Atlantis)",
+          "mission_date": "2000-09-08"
+        }
+      ]
+    },
+    {
+        "name": "Gherman Titov",
+        "nationality": "Soviet",
+        "date_of_birth": "1935-09-11",
+        "missions": [
+          {
+            "spacecraft": "Vostok 2",
+            "mission_date": "1961-08-06"
+          }
+        ]
+      },
+      {
+        "name": "John Young",
+        "nationality": "American",
+        "date_of_birth": "1930-09-24",
+        "missions": [
+          {
+            "spacecraft": "Gemini 3",
+            "mission_date": "1965-03-23"
+          },
+          {
+            "spacecraft": "Apollo 10",
+            "mission_date": "1969-05-18"
+          },
+          {
+            "spacecraft": "Apollo 16",
+            "mission_date": "1972-04-16"
+          },
+          {
+            "spacecraft": "STS-1 (Columbia)",
+            "mission_date": "1981-04-12"
+          }
+        ]
+      },
+      {
+        "name": "Jim Lovell",
+        "nationality": "American",
+        "date_of_birth": "1928-03-25",
+        "missions": [
+          {
+            "spacecraft": "Gemini 7",
+            "mission_date": "1965-12-04"
+          },
+          {
+            "spacecraft": "Apollo 8",
+            "mission_date": "1968-12-21"
+          },
+          {
+            "spacecraft": "Apollo 13",
+            "mission_date": "1970-04-11"
+          }
+        ]
+      },
+      {
+        "name": "Peggy Whitson",
+        "nationality": "American",
+        "date_of_birth": "1960-02-09",
+        "missions": [
+          {
+            "spacecraft": "STS-111 (Endeavour)",
+            "mission_date": "2002-06-05"
+          },
+          {
+            "spacecraft": "STS-113 (Endeavour)",
+            "mission_date": "2002-11-23"
+          },
+          {
+            "spacecraft": "Soyuz TMA-11",
+            "mission_date": "2007-10-10"
+          },
+          {
+            "spacecraft": "Soyuz MS-03",
+            "mission_date": "2016-11-17"
+          }
+        ]
+      },
+      {
+        "name": "Michael Collins",
+        "nationality": "American",
+        "date_of_birth": "1930-10-31",
+        "missions": [
+          {
+            "spacecraft": "Gemini 10",
+            "mission_date": "1966-07-18"
+          },
+          {
+            "spacecraft": "Apollo 11",
+            "mission_date": "1969-07-16"
+          }
+        ]
+      },
+      {
+        "name": "Alan Bean",
+        "nationality": "American",
+        "date_of_birth": "1932-03-15",
+        "missions": [
+          {
+            "spacecraft": "Apollo 12",
+            "mission_date": "1969-11-14"
+          }
+        ]
+      },
+      {
+        "name": "Eileen Collins",
+        "nationality": "American",
+        "date_of_birth": "1956-11-19",
+        "missions": [
+          {
+            "spacecraft": "STS-63 (Discovery)",
+            "mission_date": "1995-02-03"
+          },
+          {
+            "spacecraft": "STS-84 (Atlantis)",
+            "mission_date": "1997-05-15"
+          },
+          {
+            "spacecraft": "STS-93 (Columbia)",
+            "mission_date": "1999-07-23"
+          }
+        ]
+      },
+      {
+        "name": "Scott Kelly",
+        "nationality": "American",
+        "date_of_birth": "1964-02-21",
+        "missions": [
+          {
+            "spacecraft": "STS-103 (Discovery)",
+            "mission_date": "1999-12-19"
+          },
+          {
+            "spacecraft": "STS-118 (Endeavour)",
+            "mission_date": "2007-08-08"
+          },
+          {
+            "spacecraft": "Soyuz TMA-01M",
+            "mission_date": "2010-10-07"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Ochoa",
+        "nationality": "American",
+        "date_of_birth": "1958-05-10",
+        "missions": [
+          {
+            "spacecraft": "STS-56 (Discovery)",
+            "mission_date": "1993-04-08"
+          },
+          {
+            "spacecraft": "STS-66 (Atlantis)",
+            "mission_date": "1994-11-03"
+          },
+          {
+            "spacecraft": "STS-96 (Discovery)",
+            "mission_date": "1999-05-27"
+          }
+        ]
+      },
+      {
+        "name": "Yi So-yeon",
+        "nationality": "South Korean",
+        "date_of_birth": "1978-06-25",
+        "missions": [
+          {
+            "spacecraft": "Soyuz TMA-12",
+            "mission_date": "2008-04-08"
+          }
+        ]
+      }
+  ]
